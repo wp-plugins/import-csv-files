@@ -3,7 +3,7 @@ Author: GeorgeIron
 Homepage: http://www.w3examples.com
 Donate link: http://www.w3examples.com/donate.php
 Tags: csv, import, posts, pages
-Tested up to: 3.6.1
+Tested up to: 3.8
 Requires at least: 3.0
 Contributors: GeorgeIron
 Stable Tag: trunk
@@ -17,7 +17,7 @@ delimiter and map columns from the csv file to the post fields. Supports Unicode
 files. Currently does not support custom posts and custom taxonomies.
 
 For support visit the 
-[Main Homapage](http://www.w3examples.com)
+[Main Homepage](http://www.w3examples.com)
 [Plugin Howtos](http://www.w3examples.com/wordpress/working_import_csv_files.php)
 
 == Installation ==
