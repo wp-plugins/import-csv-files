@@ -3,7 +3,7 @@ Author: GeorgeIron
 Homepage: http://www.w3examples.com
 Donate link: http://www.w3examples.com/donate.php
 Tags: csv, import, posts, pages
-Tested up to: 3.8
+Tested up to: 3.9
 Requires at least: 3.0
 Contributors: GeorgeIron
 Stable Tag: trunk
