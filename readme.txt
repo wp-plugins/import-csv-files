@@ -4,7 +4,7 @@ Homepage: http://www.w3examples.com
 Donate link: http://www.w3examples.com/donate.php
 Tags: csv, import, posts, pages
 Tested up to: 4.0
-Requires at least: 3.0
+Requires at least: 3.2
 Contributors: GeorgeIron
 Stable Tag: trunk
 License: GPLv2 or later
