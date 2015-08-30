@@ -499,7 +499,7 @@ function main()
 					      <option value="pending">Pending</option>
 						</select>&nbsp;&nbsp;&nbsp;&nbsp;
 						<?php if($this->insertype == 'post') : ?>
-						Organize into category <?php wp_dropdown_categories(array('show_option_all' => 'Select one ...', 'hide_empty' => 0, 'hierarchical' => 1, 'show_count' => 1, 'name' => 'import_csvfile_cat',  'selected' => $opt_cat));?>
+						Organize into category <?php wp_dropdown_categories(array('show_option_all' => 'Select one ...', 'hide_empty' => 0, 'hierarchical' => 1, 'show_count' => 1, 'name' => 'import_csvfile_cat'));?>
 						<?php endif; ?>
 					</div>
 				</div>
@@ -539,7 +539,7 @@ function main()
 		       continue;
 		}else
 		 {
-        	$number_of_fields = count($row);
+        	$number_of_fields = count($keys);
 			$data = array();
 			foreach($this->mapped as $item => $value )
 			{
